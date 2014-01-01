@@ -26,8 +26,9 @@ Setup an initializer `config/initializers/dhlgm-track.rb' to configure the gem t
     end
 
 ## Usage
+Tracking packages is easy. Once configured, simply call track and pass your tracking number.
 
-   DHLGM::track('GM2951145570001572')
+    DHLGM::track('GMXXXXXXXXXXXXXXXX')
 
 ## Contributing
 
