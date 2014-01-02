@@ -1,5 +1,7 @@
 # DHLGM Track Gem
 
+[![Build Status](https://travis-ci.org/rochers/dhlgm-track.png?branch=master)](https://travis-ci.org/rochers/dhlgm-track) [![Code Climate](https://codeclimate.com/github/rochers/dhlgm-track.png)](https://codeclimate.com/github/rochers/dhlgm-track)
+
 Track packages through the DHL Global Mail API.
 
 ## Installation
