@@ -1,4 +1,4 @@
-# DHLGM::Track
+# DHLGM Track Gem
 
 Track packages through the DHL Global Mail API.
 

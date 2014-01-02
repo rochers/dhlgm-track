@@ -20,5 +20,7 @@ Gem::Specification.new do |gem|
   gem.add_runtime_dependency "nokogiri", ["~> 1.6"]
   gem.add_runtime_dependency "typhoeus", ["~> 0.6"]
 
+  gem.add_development_dependency "awesome_print"
   gem.add_development_dependency "rspec", ["~> 2.14"]
+  gem.add_development_dependency "webmock"
 end
